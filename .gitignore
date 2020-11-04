@@ -26,6 +26,9 @@ out
 build
 bin
 
+# jupyter notebook
+.ipynb_checkpoints
+
 # Other
 *.log
 *.swp
