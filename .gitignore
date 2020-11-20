@@ -1,4 +1,4 @@
-# Java
+# --- Java ---
 *.class
 *.jar
 *.war
@@ -26,10 +26,13 @@ out
 build
 bin
 
-# jupyter notebook
-.ipynb_checkpoints
-
 # Other
 *.log
 *.swp
 *.bak
+
+# jupyter notebook
+.ipynb_checkpoints
+
+# --- Node ---
+node_modules/

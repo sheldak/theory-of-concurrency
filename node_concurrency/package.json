@@ -1,0 +1,12 @@
+{
+  "name": "node_concurrency",
+  "version": "1.0.0",
+  "description": "",
+  "main": "loop.js",
+  "dependencies": {
+    "q": "1.x",
+    "async": "0.2.x"
+  },
+  "author": "",
+  "license": "ISC"
+}
